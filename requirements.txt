@@ -1,8 +1,0 @@
-Click==7.0
-Flask==1.1.1
--e git+git@github.com:hsmitha26/flask-tutorial1.git@db1eb2c6624047095ca1c7a498e4ed5a5218aeb3#egg=flaskr
-gunicorn==20.0.4
-itsdangerous==1.1.0
-Jinja2==2.10.3
-MarkupSafe==1.1.1
-Werkzeug==0.16.0
