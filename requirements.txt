@@ -2,7 +2,7 @@ attrs==19.3.0
 Click==7.0
 coverage==5.0.1
 Flask==1.1.1
--e https://git.heroku.com/vast-peak-32818.git
+-e git+git@github.com:hsmitha26/flask-tutorial1.git@06fe095a381b7d71c4996d00f3c54b489458f02f#egg=flaskr
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.10.3
